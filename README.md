@@ -1,16 +1,21 @@
 ## Welcome to Hacktoberfest @ Parity
 
-_There will be more info here soon! Currently mostly notes for fillers_
+_WORK IN PROGRESS_
 
-## How to participate
+Join us for Hacktoberfest 2019. Hack on parity and related technologies, solve issues or take on a bigger challenge pushing the boundaries of the technology that will run the next generation of the internet. Oh, and get exclusive swag on top of that!
 
- - Outline general rules
- - hacktoberfest-tags-URL to parity-search
- - Bigger modules and rules about that
- - sign up form for swag
+## Participate in 3 easy steps
+
+ 1. Pick four hacktoberfest-tagged issue from any parity repository or rust-libp2p
+    OR pick any one bigger project
+ 2. Hack on them, submit a PR, get it reviewed and merged
+ 3. Claim your award (see below)
 
 ## Getting help
 
+There are multiple ways to in which we offer to help you working on the projects and issues:
+ - mentors mentioned in ticket/issue
+   - just asking questions on the ticket itself
  - Meat-World Events
  - link to gitter & matrix
  - link to reddit, forum, other places
