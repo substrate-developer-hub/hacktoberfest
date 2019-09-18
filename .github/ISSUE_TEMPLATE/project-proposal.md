@@ -35,6 +35,7 @@ These following tasks must have been completed in order for this to be considere
  - [ ] runtime
  - [ ] UI/UX
  - [ ] integration / adaptation
+ - [ ] tooling
  - [ ] _other_ (please add whatever you think is suitable)
 
 **Probable/Expected Workload**:
