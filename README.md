@@ -24,8 +24,8 @@ There are multiple ways to in which we offer to help you working on the projects
 
  - events listed here.
 
-## Particpants
-_Submit a PR filling in [this template]() to be listed here_
+## Hackers
+_Submit a PR filling in [this template](https://github.com/substrate-developer-hub/hacktoberfest/blob/master/_hackers/_template.md) to be listed here_
 
 {% assign mentors = site.hackers | where: "role", "mentor"  %}
 {% assign participants = site.hackers | where: "role", "participant"  %}
@@ -63,8 +63,8 @@ ul.unstyled li img {
     <li>
         <a href="https://github.com/{{hackor.github}}" title="{{hackor.github}}">{{hackor.name}}
         </a>
-        {% if hackor.matrix %}<a href="https://riot.im/{{hackor.matrix}}">M</a>{% endif %}
-        {% if hackor.twitter %}<a href="https://twitter.com/{{hackor.twitter}}">M</a>{% endif %}
+        {% if hackor.matrix %}<a title="matrix: {{hackor.matrix}}" href="https://riot.im/{{hackor.matrix}}">m</a>{% endif %}
+        {% if hackor.twitter %}<a title="twitter: {{hackor.twitter}}"  href="https://twitter.com/{{hackor.twitter}}">t</a>{% endif %}
     </li>
 {% endfor %}
 </ul>
