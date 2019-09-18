@@ -27,7 +27,7 @@ _Submit a PR filling in [this template]() to be listed here_
     <li>
         <a href="https://github.com/{{hackor.github}}" title="{{hackor.github}}"><img src="https://github.com/{{hackor.github}}.png" width="100" alt="{{hackor.github}}"/>
         </a>
-    </li
+    </li>
 {% endfor %}
 </ul>
 
