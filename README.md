@@ -1,4 +1,4 @@
-## Welcome Hacktoberfest @ Parity
+## Welcome to Hacktoberfest @ Parity
 
 _There will be more info here soon! Currently mostly notes for fillers_
 
