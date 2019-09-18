@@ -15,7 +15,7 @@ _There will be more info here soon! Currently mostly notes for fillers_
  - link to gitter & matrix
  - link to reddit, forum, other places
 
-## Associtated Events
+## Associated Events
 
  - events listed here.
 
