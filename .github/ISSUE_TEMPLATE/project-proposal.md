@@ -1,5 +1,5 @@
 ---
-name: Project Proposal
+name: General Project Proposal
 about: Default template to propose a new project
 title: "[Project Proposal]"
 labels: ''
@@ -34,6 +34,7 @@ These following tasks must have been completed in order for this to be considere
  - [ ] embedded
  - [ ] runtime
  - [ ] UI/UX
+ - [ ] design
  - [ ] integration / adaptation
  - [ ] tooling
  - [ ] _other_ (please add whatever you think is suitable)
