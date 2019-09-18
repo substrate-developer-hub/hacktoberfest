@@ -41,11 +41,4 @@ _Submit a PR filling in [this template]() to be listed here_
 
 **Mentors**
 <ul>
-{% for hackor in mentors %}
-    <li>
-        <a href="https://github.com/{{hackor.github}}">{{hackor.name}}</a>
-        {% if hackor.matrix}<a href="https://riot.im/{{hackor.matrix}}">M</a>{% endif %}
-        {% if hackor.twitter}<a href="https://twitter.com/{{hackor.twitter}}">M</a>{% endif %}
-    </li>
-{% endfor %}
 </ul>
