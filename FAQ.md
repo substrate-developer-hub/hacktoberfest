@@ -1,3 +1,7 @@
+---
+title: "Frequently Asked Questions answered for Hacktoberfest@Parity"
+permalink: /faq/
+---
 # FAQ
 
 ## How do I claim to be working on an issue or ticket
