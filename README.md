@@ -30,10 +30,28 @@ _Submit a PR filling in [this template]() to be listed here_
 {% assign mentors = site.hackers | where: "role", "mentor"  %}
 {% assign participants = site.hackers | where: "role", "participant"  %}
 
+<style>
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: inline-block;
+}
+
+li img {
+    width: 100px;
+    display: inline-block;
+}
+
+</style>
+
 <ul>
 {% for hackor in participants  %}
     <li>
-        <a href="https://github.com/{{hackor.github}}" title="{{hackor.github}}"><img src="https://github.com/{{hackor.github}}.png" width="100" alt="{{hackor.github}}"/>
+        <a href="https://github.com/{{hackor.github}}" title="{{hackor.github}}"><img src="https://github.com/{{hackor.github}}.png" alt="{{hackor.github}}"/>
         </a>
     </li>
 {% endfor %}
@@ -41,4 +59,12 @@ _Submit a PR filling in [this template]() to be listed here_
 
 **Mentors**
 <ul>
+{% for hackor in participants  %}
+    <li>
+        <a href="https://github.com/{{hackor.github}}" title="{{hackor.github}}">{{hackor.name}}
+        </a>
+        {% if hackor.matrix %}<a href="https://riot.im/{{hackor.matrix}}">M</a>{% endif %}
+        {% if hackor.twitter %}<a href="https://twitter.com/{{hackor.twitter}}">M</a>{% endif %}
+    </li>
+{% endfor %}
 </ul>
