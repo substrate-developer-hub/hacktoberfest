@@ -1,6 +1,6 @@
 ---
-name: Project Proposal
-about: Default template to propose a new project
+name: Runtime Module Template
+about: Template for a runtime module project
 title: "[Runtime Module]"
 labels: 
  - "t-runtime-modules"
