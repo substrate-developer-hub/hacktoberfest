@@ -36,7 +36,8 @@ _Submit a PR filling in [this template]() to be listed here_
 {% for hackor in site.hackers | where: "role", "mentor"  %}
     <li>
         <a href="https://github.com/{{hackor.github}}">{{hackor.name}}</a>
+        {% if hackor.matrix}<a href="https://riot.im/{{hackor.matrix}}">M</a>{% endif %}
+        {% if hackor.twitter}<a href="https://twitter.com/{{hackor.twitter}}">M</a>{% endif %}
     </li>
-    <!-- ADD MATRIX AND OTHER WAYS TO CONTACT -->
 {% endfor %}
 </ul>
