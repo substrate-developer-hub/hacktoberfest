@@ -31,27 +31,27 @@ _Submit a PR filling in [this template]() to be listed here_
 {% assign participants = site.hackers | where: "role", "participant"  %}
 
 <style>
-ul {
+ul.unstyled {
     list-style: none;
     padding: 0;
     margin: 0;
 }
 
-li {
+ul.unstyled li {
     display: inline-block;
 }
 
-li img {
+ul.unstyled li img {
     width: 100px;
     display: inline-block;
 }
 
 </style>
 
-<ul>
+<ul class="unstyled">
 {% for hackor in participants  %}
     <li>
-        <a href="https://github.com/{{hackor.github}}" title="{{hackor.github}}"><img src="https://github.com/{{hackor.github}}.png" alt="{{hackor.github}}"/>
+        <a href="https://github.com/{{hackor.github}}" title="{{hackor.name}}"><img src="https://github.com/{{hackor.github}}.png" alt="{{hackor.name}}"/>
         </a>
     </li>
 {% endfor %}
