@@ -79,7 +79,7 @@ ul.unstyled li img {
 
 **Mentors**
 <ul>
-{% for hackor in participants  %}
+{% for hackor in mentors  %}
     <li>
         <a href="https://github.com/{{hackor.github}}" title="{{hackor.github}}">{{hackor.name}}
         </a>
