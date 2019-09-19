@@ -7,3 +7,11 @@ show_downloads: false
 collections:
   hackers:
     output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "hackers"
+    values:
+      layout: "default"
