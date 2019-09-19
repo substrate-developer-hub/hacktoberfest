@@ -8,11 +8,10 @@ Join us for Hacktoberfest 2019. Hack on parity and related technologies, solve i
 
 ## Participate in 3 easy steps
 
- 1. Pick _four_ [hacktoberfest-tagged issue from any parity](https://github.com/search?q=user%3Aparitytech+label%3Ahacktoberfest+state%3Aopen&type=Issues) repository or [rust-libp2p](https://github.com/libp2p/rust-libp2p/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-    
-    OR pick any _one_ [larger project](https://github.com/substrate-developer-hub/hacktoberfest/issues)
+ 1. Either: Pick _four_ [hacktoberfest-tagged issue from any parity](https://github.com/search?q=user%3Aparitytech+label%3Ahacktoberfest+state%3Aopen&type=Issues) repository or [rust-libp2p](https://github.com/libp2p/rust-libp2p/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    Or: pick any _one_ [larger project](https://github.com/substrate-developer-hub/hacktoberfest/issues)
  2. Hack on them, submit a PR, get it reviewed and merged
- 3. Claim your reward (see [FAQ](faq/) to learn how)
+ 3. Claim your reward (see [FAQ](faq/#reward) to learn how)
 
 
 <div markdown="1" style="text-align: center">
