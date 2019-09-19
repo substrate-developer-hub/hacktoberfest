@@ -14,12 +14,23 @@
   <body>
     <div class="wrapper">
       <header>
-          
-        <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% if page.github %}
+            <a href="https://github.com/{{page.github}}" title="{{page.name}}"><img src="https://github.com/{{page.github}}.png" alt="{{hackor.name}}"/>
+        {% else %}
+            <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>    
+            <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% endif %}
       </header>
       <section>
+        {% if page.name %}
+            <h1 style="display:inline">{{page.name}}</h1>{% if page.pronoun %}<span>{{page.pronoun}}</span>{% endif %}
+        {% endif %}
+            <p>
+                {% if page.matrix %}<a title="github: {{page.github}}" href="https://github.com/{{page.github}}">Github</a>{% endif %}
+                {% if page.matrix %}<a title="matrix: {{page.matrix}}" href="https://riot.im/{{page.matrix}}">Matrix</a>{% endif %}
+                {% if page.twitter %}<a title="twitter: {{page.twitter}}"  href="https://twitter.com/{{hackor.twitter}}">Twitter</a>{% endif %}
+            </p>
 
       {{ content }}
 

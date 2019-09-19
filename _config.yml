@@ -5,4 +5,5 @@ logo: assets/pretty_logo.png
 show_downloads: false
 
 collections:
-  - hackers
+  hackers:
+    output: true

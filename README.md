@@ -81,10 +81,7 @@ ul.unstyled li img {
 <ul>
 {% for hackor in mentors  %}
     <li>
-        <a href="https://github.com/{{hackor.github}}" title="{{hackor.github}}">{{hackor.name}}
-        </a>
-        {% if hackor.matrix %}<a title="matrix: {{hackor.matrix}}" href="https://riot.im/{{hackor.matrix}}">m</a>{% endif %}
-        {% if hackor.twitter %}<a title="twitter: {{hackor.twitter}}"  href="https://twitter.com/{{hackor.twitter}}">t</a>{% endif %}
+        <a href="{{ hackor.url }}" title="{{hackor.name}}">{{hackor.name}}</a>
     </li>
 {% endfor %}
 </ul>
