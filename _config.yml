@@ -14,4 +14,4 @@ defaults:
       path: ""
       type: "hackers"
     values:
-      layout: "default"
+      layout: "hacker"

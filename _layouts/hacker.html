@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+
+        {% if page.github %}
+            <a href="https://github.com/{{page.github}}" title="{{page.name}}"><img src="https://github.com/{{page.github}}.png" alt="{{hackor.name}}"/></a>
+        {% else %}
+            <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>    
+            <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% endif %}
+      </header>
+      <section>
+        {% if page.name %}
+            <h1 style="display:inline">{{page.name}}</h1>{% if page.pronoun %}<span>{{page.pronoun}}</span>{% endif %}
+        {% endif %}
+        <p>
+            {% if page.github %}<a title="github: {{page.github}}" href="https://github.com/{{page.github}}">Github</a>{% endif %}
+            {% if page.matrix %}<a title="matrix: {{page.matrix}}" href="https://riot.im/{{page.matrix}}">Matrix</a>{% endif %}
+            {% if page.twitter %}<a title="twitter: {{page.twitter}}"  href="https://twitter.com/{{hackor.twitter}}">Twitter</a>{% endif %}
+        </p>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
