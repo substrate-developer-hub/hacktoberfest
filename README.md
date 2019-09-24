@@ -2,16 +2,18 @@
 
 [![Gitter](https://img.shields.io/gitter/room/substrate-developer-hub/community)](https://gitter.im/substrate-developer-hub/community)
 
-_WORK IN PROGRESS_
-
 Join us for Hacktoberfest 2019. Hack on parity and related technologies, solve issues or take on a bigger challenge pushing the boundaries of the technology that will run the next generation of the internet. Oh, and get exclusive swag on top of that!
 
 ## Participate in 3 easy steps
 
- 1. Either: Pick _four_ [hacktoberfest-tagged issue from any parity](https://github.com/search?q=user%3Aparitytech+label%3Ahacktoberfest+state%3Aopen&type=Issues) repository or [rust-libp2p](https://github.com/libp2p/rust-libp2p/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-    Or: pick any _one_ [larger project](https://github.com/substrate-developer-hub/hacktoberfest/issues)
- 2. Hack on them, submit a PR, get it reviewed and merged
- 3. Claim your reward (see [FAQ](faq/#reward) to learn how)
+#### 1. Select
+Either: Pick _four_ [hacktoberfest-tagged issue from any parity](https://github.com/search?q=user%3Aparitytech+label%3Ahacktoberfest+state%3Aopen&type=Issues) repository or [rust-libp2p](https://github.com/libp2p/rust-libp2p/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) or pick any _one_ [larger project](https://github.com/substrate-developer-hub/hacktoberfest/issues)
+### 2. Contribute
+Hack on the issue or larger project, submit one or more PRs, get it reviewed and merged
+#### 3. Claim the reward
+Submit the [signup form](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform) to claim your reward. Make sure to submit all before Nov 1st. 
+
+More in the [FAQ](faq/#reward)s.
 
 
 <div markdown="1" style="text-align: center">
