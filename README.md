@@ -15,7 +15,7 @@ Pick any _four_ [hacktoberfest-tagged issue from any parity](https://github.com/
 
 You can also suggest your own, see the [FAQ](faq/#reward)s, how.
 
-### 3. Contribute
+#### 3. Contribute
 Hack on the issue. You can do that by yourself, with the mentor (if available) or join us for any of the [real world and remote events](#events) we are hosting for hacktoberfest. Once your work is ready, submit the PR and engage with the reviewers to get it merged.
 
 With your work and the form submitted before Nov 1st, all you have to do is wait for us to confirm your contribution and await your sweet, sweet reward!
