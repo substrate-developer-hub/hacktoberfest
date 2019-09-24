@@ -6,12 +6,19 @@ Join us for Hacktoberfest 2019. Hack on parity and related technologies, solve i
 
 ## Participate in 3 easy steps
 
-#### 1. Select
-Either: Pick _four_ [hacktoberfest-tagged issue from any parity](https://github.com/search?q=user%3Aparitytech+label%3Ahacktoberfest+state%3Aopen&type=Issues) repository or [rust-libp2p](https://github.com/libp2p/rust-libp2p/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) or pick any _one_ [larger project](https://github.com/substrate-developer-hub/hacktoberfest/issues)
-### 2. Contribute
-Hack on the issue or larger project, submit one or more PRs, get it reviewed and merged
-#### 3. Claim the reward
-Submit the [signup form](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform) to claim your reward. Make sure to submit all before Nov 1st. 
+#### 1. Sign up
+Fill in and submit the [signup form](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform) to let us know you are taking part. You can also optionally raise a PR against this repo to include your profile down below - [just fill in this template](https://github.com/substrate-developer-hub/hacktoberfest/blob/master/_hackers/_template.md). We recommend you also join us on chat either on [gitter](https://gitter.im/substrate-developer-hub/community) or [matrix](https://matrix.to/#/room/#substrate-technical:matrix.org).
+
+#### 2. Hack
+
+Pick any _four_ [hacktoberfest-tagged issue from any parity](https://github.com/search?q=user%3Aparitytech+label%3Ahacktoberfest+state%3Aopen&type=Issues) or the [rust-libp2p](https://github.com/libp2p/rust-libp2p/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) repository, or choose _one_ [larger project](https://github.com/substrate-developer-hub/hacktoberfest/issues), we have preprepared for you, to hack on. You can also suggest your own, see the [FAQ](faq/#reward)s, how.
+
+You can do that by yourself, with the mentor (if available) or join us for any of the [real world and remote events](#events) we are hosting for hacktoberfest.
+
+Once your work is ready, submit the PR and engage with the reviewers to get it merged.
+
+#### 3. Profit
+With your work and the form submitted before Nov 1st, all you have to do is wait for us to confirm your contribution and await your sweet, sweet reward!
 
 More in the [FAQ](faq/#reward)s.
 
@@ -20,10 +27,11 @@ More in the [FAQ](faq/#reward)s.
 
 ## Chat with us
 
-[![Substrate Dev Hub Community on Gitter](assets/gitter-button.png)](https://gitter.im/substrate-developer-hub/community) or [![Substrate Technical on Matrix](assets/matrix-button.png)](https://riot.im/app/#/room/#substrate-technical:matrix.org)
+[![Substrate Dev Hub Community on Gitter](assets/gitter-button.png)](https://gitter.im/substrate-developer-hub/community) or [![Substrate Technical on Matrix](assets/matrix-button.png)](https://matrix.to/#/room/#substrate-technical:matrix.org)
 
 </div>
 
+<span id="events"></span>
 ## or join us for an event near you (or remotely)
 
 - **Oct 1st** 15:00 CEST Substrate Starters Workshop, Berlin Community Space
