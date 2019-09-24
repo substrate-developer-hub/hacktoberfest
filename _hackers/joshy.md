@@ -5,7 +5,7 @@ role:
  - mentor
  - reviewer
 pronouns: "he/him"
-on_matrix:
+on_matrix: @joshyorndorff:matrix.parity.io
 on_twitter:
 
 ---
