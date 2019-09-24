@@ -29,10 +29,10 @@ Join us for Hacktoberfest 2019. Hack on parity and related technologies, solve i
 - **Oct 7th** 18:00 CEST Substrate Collaborative Learning Hacktoberfest edition (2 hours, https://zoom.us/j/440029011)
 - **Oct 8th**-11th [Devcon](https://devcon.org/), Osaka, Japan
 - **Oct 8th** 18:30 CEST Substrate'n'Chill Hacktoberfest-Edition, Berlin Community Space
-- **Oct 11th** 14:00 CEST Substrate Collaborative Learning Hacktoberfest edition (2 hours, zoom?) with Ben & Kaichao
+- **Oct 11th** 14:00 CEST Substrate Collaborative Learning Hacktoberfest edition (2 hours, [via Matrix](https://matrix.to/#/!trdlqNGrCsZpYUZoXa:matrix.parity.io?via=matrix.parity.io&via=matrix.org)) with Ben & Kaichao
 - **Oct 14th** 18:00 CEST Substrate Collaborative Learning Hacktoberfest edition (2 hours, https://zoom.us/j/440029011)
 - **Oct 15th** 18:30 CEST Substrate'n'Chill Hacktoberfest-Edition, Berlin Community Space
-- **Oct 18th** 14:00 CEST Substrate Collaborative Learning Hacktoberfest edition (2 hours, zoom?) with Ben & Kaichao
+- **Oct 18th** 14:00 CEST Substrate Collaborative Learning Hacktoberfest edition (2 hours, [via Matrix](https://matrix.to/#/!trdlqNGrCsZpYUZoXa:matrix.parity.io?via=matrix.parity.io&via=matrix.org)) with Ben & Kaichao
 - **Oct 18th**-19th [Rust BeltRust](https://www.rust-belt-rust.com/), Dayton, Ohio
 - **Oct 19th**-20th Workshop and Mentoring at [Diffusion Hackathon](https://diffusion.events/), Factory Berlin
 - **Oct 21st** 18:00 CEST Substrate Collaborative Learning Hacktoberfest edition (2 hours, https://zoom.us/j/440029011)
