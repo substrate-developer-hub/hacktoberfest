@@ -5,8 +5,9 @@ role:
  - mentor
  - reviewer
 pronouns: "he/him"
-on_matrix:
-on_twitter: gnunicornBen
+gitter: gnunicorn
+matrix: ben:matrix.parity.io
+twitter: gnunicornBen
 
 ---
 
