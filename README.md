@@ -50,23 +50,14 @@ With your work and the form submitted before Nov 1st, all you have to do is wait
 - **Oct 28th**-31st [SF Blockchain week](https://sfblockchainweek.io/) · San Francisco
 
 
-
-For further questions regarding the process, how to claim the reward and also other ways and places to get help, **please [consult the FAQs](faq/)** and don't hesitate to post your questions on our chat!
-
-## Hackers
-_Submit a PR filling in [this template](https://github.com/substrate-developer-hub/hacktoberfest/blob/master/_hackers/_template.md) to be listed here_
-
-{% assign mentors = site.hackers | where: "role", "mentor"  %}
-{% assign participants = site.hackers | where: "role", "participant"  %}
-
 <style>
-ul.unstyled {
+ul.unstyled, dl.unstyled {
     list-style: none;
     padding: 0;
     margin: 0;
 }
 
-ul.unstyled li {
+ul.unstyled li, dl.unstyled dt, dl.unstyled dd {
     display: inline-block;
 }
 
@@ -76,6 +67,24 @@ ul.unstyled li img {
 }
 
 </style>
+
+<dl class="unstyled">
+    <dt>🗓<dt>
+    <dd>ical event link</dd>
+    <dt>$TITLE_WITH_LINK<dt>
+    <dd>Link to sign up</dd>
+</dl>
+---
+
+
+For further questions regarding the process, how to claim the reward and also other ways and places to get help, **please [consult the FAQs](faq/)** and don't hesitate to post your questions on our chat!
+
+## Hackers
+_Submit a PR filling in [this template](https://github.com/substrate-developer-hub/hacktoberfest/blob/master/_hackers/_template.md) to be listed here_
+
+{% assign mentors = site.hackers | where: "role", "mentor"  %}
+{% assign participants = site.hackers | where: "role", "participant"  %}
+
 
 <ul class="unstyled">
 {% for hackor in participants  %}
