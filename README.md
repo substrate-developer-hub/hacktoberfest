@@ -32,22 +32,26 @@ With your work and the form submitted before Nov 1st, all you have to do is wait
 <span id="events" style="display:block; padding-top: 10px"></span>
 ## or join us for an event near you (or remotely)
 
-- **Oct 1st** [15:00 CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate+Starters+Workshop&iso=20191001T1500&p1=37) · Substrate Starters Workshop · Berlin Community Space
-- **Oct 1st** [18:30 CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate'n'Chill+Hacktoberfest+Kick+Off&iso=20191001T1830&p1=37) · Substrate'n'Chill Hacktoberfest Kick Off · Berlin Community Space
-- **Oct 7th** [16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191007T16&p1=%3A&ah=2) · Substrate Collaborative Learning Hacktoberfest edition (2 hours, https://zoom.us/j/440029011)
-- **Oct 8th**-11th [Devcon](https://devcon.org/), Osaka, Japan
-- **Oct 8th** [18:30 CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191008T1830&p1=37) · Substrate'n'Chill Hacktoberfest-Edition · Berlin Community Space
-- **Oct 11th** [12:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191007T16&p1=%3A&ah=2) · Substrate Collaborative Learning Hacktoberfest edition (2 hours, [via Matrix](https://matrix.to/#/!trdlqNGrCsZpYUZoXa:matrix.parity.io?via=matrix.parity.io&via=matrix.org)) with Ben & Kaichao
-- **Oct 14th** [22:00 CST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191014T22&p1=237&ah=2) · Substrate Collaborative Learning Hacktoberfest edition (2 hours, https://zoom.us/j/440029011)
-- **Oct 15th** [18:30 CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191015T1830&p1=37) · Substrate'n'Chill Hacktoberfest-Edition · Berlin Community Space
-- **Oct 18th** [20:00 CST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191018T20&p1=237&ah=2) Substrate Collaborative Learning Hacktoberfest edition (2 hours, [via Matrix](https://matrix.to/#/!trdlqNGrCsZpYUZoXa:matrix.parity.io?via=matrix.parity.io&via=matrix.org)) with Ben & Kaichao
+- **Oct 1st** [15:00 CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate+Starters+Workshop&iso=20191001T1500&p1=37) · [Substrate Starters Workshop](https://www.meetup.com/parity/events/265091438/)· [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&p1=37&iso=20191001T1500&msg=Substrate%20Starters%20Workshop)  · Berlin Community Space
+- **Oct 1st** [18:30 CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate'n'Chill+Hacktoberfest+Kick+Off&iso=20191001T1830&p1=37) · [Substrate'n'Chill Hacktoberfest Kick Off](https://www.meetup.com/parity/events/265091976/) · [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&msg=Substrate'n'Chill+Hacktoberfest+Kick+Off&iso=20191001T1830&p1=37)  · Berlin Community Space
+- **Oct 7th** [16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191007T16&p1=%3A&ah=2) · [Substrate Collaborative Learning Hacktoberfest edition](https://www.eventbrite.com/e/substrate-collaborative-learning-hacktoberfest-edition-tickets-73957359453) · [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191007T16&p1=%3A&ah=2) · remote via [zoom](https://zoom.us/j/440029011)
+- **Oct 7th** · [Devcon Substrate Workshop](https://www.eventbrite.com/e/parity-substrate-workshop-osaka-tickets-72246931517) · Osaka, Japan
+- **Oct 8th**-11th · [Devcon](https://devcon.org/) · Osaka, Japan
+- **Oct 8th** [18:30 CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191008T1830&p1=37) · [Substrate'n'Chill Hacktoberfest-Edition](https://www.meetup.com/parity/events/265115982/) · [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191008T1830&p1=37) · Berlin Community Space
+- **Oct 11th** [12:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191007T16&p1=%3A&ah=2) · Substrate Collaborative Learning Hacktoberfest edition with Ben & Kaichao · [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191007T16&p1=%3A&ah=2) · remote via [Matrix](https://matrix.to/#/!trdlqNGrCsZpYUZoXa:matrix.parity.io?via=matrix.parity.io&via=matrix.org)
+- **Oct 14th** [22:00 CST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191014T22&p1=237&ah=2) · [Substrate Collaborative Learning Hacktoberfest edition](https://www.eventbrite.com/e/substrate-collaborative-learning-hacktoberfest-edition-tickets-73961626215) · [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191014T22&p1=237&ah=2) · remote via [zoom](https://zoom.us/j/440029011)
+- **Oct 15th** [18:30 CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191015T1830&p1=37) · [Substrate'n'Chill Hacktoberfest-Edition](https://www.meetup.com/parity/events/265116078/) · [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191015T1830&p1=37) · Berlin Community Space
+- **Oct 18th** [20:00 CST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191018T20&p1=237&ah=2) · Substrate Collaborative Learning Hacktoberfest edition with Ben & Kaichao · [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191018T20&p1=237&ah=2) · remote via [Matrix](https://matrix.to/#/!trdlqNGrCsZpYUZoXa:matrix.parity.io?via=matrix.parity.io&via=matrix.org)
 - **Oct 18th**-19th [Rust BeltRust](https://www.rust-belt-rust.com/) · Dayton, Ohio
 - **Oct 19th**-20th Workshop and Mentoring at [Diffusion Hackathon](https://diffusion.events/) · Factory Berlin
-- **Oct 21st** [16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191021T16&p1=%3A&ah=2) · Substrate Collaborative Learning Hacktoberfest edition (2 hours, https://zoom.us/j/440029011)
-- **Oct 22th** [18:30 CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191022T1830&p1=37) · Substrate'n'Chill Hacktoberfest-Edition · Berlin Community Space
-- **Oct 29th** [18:30 CET](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191029T1830&p1=37) · Substrate'n'Chill Hacktoberfest-Edition · Berlin Community Space
+- **Oct 21st** [16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191021T16&p1=%3A&ah=2) · [Substrate Collaborative Learning Hacktoberfest edition](https://www.eventbrite.com/e/substrate-collaborative-learning-hacktoberfest-edition-tickets-73961838851) · [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191021T16&p1=%3A&ah=2) · remote via [zoom](https://zoom.us/j/440029011)
+- **Oct 22th** [18:30 CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191022T1830&p1=37) · [Substrate'n'Chill Hacktoberfest-Edition](https://www.meetup.com/parity/events/265116095/) · [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191022T1830&p1=37)  · Berlin Community Space
+- **Oct 29th** [18:30 CET](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191029T1830&p1=37) · Substrate'n'Chill Hacktoberfest-Edition · [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191029T1830&p1=37) · Berlin Community Space
 - **Oct 28th**-31st [SF Blockchain week](https://sfblockchainweek.io/) · San Francisco
 
+
+<p style="font-size:0.5em"><em>Legend</em>: <a href="#">TITLE</a> - sign up link; 📆 - ical event</p>
+---
 
 
 For further questions regarding the process, how to claim the reward and also other ways and places to get help, **please [consult the FAQs](faq/)** and don't hesitate to post your questions on our chat!
@@ -57,6 +61,7 @@ _Submit a PR filling in [this template](https://github.com/substrate-developer-h
 
 {% assign mentors = site.hackers | where: "role", "mentor"  %}
 {% assign participants = site.hackers | where: "role", "participant"  %}
+
 
 <style>
 ul.unstyled {
