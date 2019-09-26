@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
-title: "HTF19 @ Parity"
+title: "Hacktoberfest 2019 @ Parity"
 description: Join us for a month of hacking on awesome tech for the next generation of the internet.
-logo: assets/pretty_logo.png
+logo: assets/hacktoberfest-parity-technologies-zoom.png
 show_downloads: false
 
 collections:
