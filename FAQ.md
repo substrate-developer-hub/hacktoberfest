@@ -31,7 +31,9 @@ For work that you put in your own repo or publish on other platforms, we only as
 
 ### What is the reward?
 
-This year, we offer this exclusive limited edition gym back with the official logo on it.
+This year, we offer this exclusive limited edition gym back with the official design on it:
+
+![Gym Bag with Parity Hacktoberfest Design](https://www.parity.io/content/images/2019/09/hacktoberfest2019_bag.jpg)
 
 Please keep in mind that we will only be producing exactly as many as we need, which unfortunately means you have to wait a bit into November before they will reach you. But on the upside this means whenever you see anyone with such a bag, you can be sure, they have been part of the same cohort and made major contributions just like you did!
 
