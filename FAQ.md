@@ -31,7 +31,7 @@ For work that you put in your own repo or publish on other platforms, we only as
 
 ### What is the reward?
 
-This year, we offer this exclusive limited edition gym back with the official logo on it:
+This year, we offer this exclusive limited edition gym back with the official logo on it.
 
 Please keep in mind that we will only be producing exactly as many as we need, which unfortunately means you have to wait a bit into November before they will reach you. But on the upside this means whenever you see anyone with such a bag, you can be sure, they have been part of the same cohort and made major contributions just like you did!
 
@@ -40,6 +40,10 @@ Please keep in mind that we will only be producing exactly as many as we need, w
 In order to claim a reward with the official Hacktoberfest brand, you need to provide proof to have submitted four pull requests on github. While this is a good measurement for most projects, we generally have bigger PRs and thus fewer of them and we'd rather see one contribution of high quality or high impact rather than just splitting them out into multiple PRs to claim these prices. Further more, some contributions, like translations to documentation or writing blog posts explainng the awesome substrate-port you've built or a video class or podcast series - for obvious reasons - do not fit neatly into the PRs system, as they are often contributed through other platforms and means.
 
 Thus we decided to offer an additional reward for any significant contribution being done to the parity ecosystem.
+
+### What counts as a 'significant contribution'?
+
+Well, if you want to make sure to receive the reward, either finish any of the projects or submit four PRs for `hacktoberfest`-tagged issues. On other project ideas or contributions, please speak to us first about what needs to be accomplished to receive a reward for it. That said, we generally like everything that moves forward the substrate ecosystem and growth our understanding, up to failed attempts in PoCs if the final submission allows us to learn why it wasn't possible. 
 
 ### Can I claim both though?
 
@@ -50,7 +54,7 @@ Yes. If the criteria apply, you are welcome to submit for both, either or neithe
 
 [It is right here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform).
 
-### How do I claim my sweet, sweet SWAG?
+### How do I claim my sweet, sweet gym bag?
 
 Please submit your profile information for the page and for shipping (and other contact information) [fill in this form](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform). We recommend to do that _first_ before you even start contributing, so you don't forget. Among other things the form asks you for your github handle and we will match your contribution to the contact details provided. We will then inform you about the expected shipping dates via E-Mail within the first week of november.
 
