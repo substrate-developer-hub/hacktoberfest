@@ -7,7 +7,7 @@ Join us for Hacktoberfest 2019. Hack on substrate and related parity technologie
 ## Participate in 3 easy steps
 
 ### ✍️ 1. Sign up
-[Fill in and submit the signup form](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform) to let us know you are taking part. You can also optionally raise a PR against this repo to include your profile down below - [just fill in this template](https://github.com/substrate-developer-hub/hacktoberfest/blob/master/_hackers/_template.md). We recommend you also join us on chat either on [gitter](https://gitter.im/substrate-developer-hub/community) or [matrix](https://matrix.to/#/room/#substrate-technical:matrix.org).
+[Fill in and submit the signup form](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform) to let us know you are taking part. To see how we use your information please see [our privacy policy])(https://www.parity.io/privacy/). You can also optionally raise a PR against this repo to include your profile down below - [just fill in this template](https://github.com/substrate-developer-hub/hacktoberfest/blob/master/_hackers/_template.md). We recommend you also join us on chat either on [gitter](https://gitter.im/substrate-developer-hub/community) or [matrix](https://matrix.to/#/room/#substrate-technical:matrix.org).
 
 ### 💡 2. Select
 
