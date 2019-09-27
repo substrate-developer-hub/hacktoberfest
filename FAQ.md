@@ -54,11 +54,11 @@ Yes. If the criteria apply, you are welcome to submit for both, either or neithe
 
 ### Where do I find the signup form?
 
-[It is right here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform).
+[It is right here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform). To see how we use your information please see [our privacy policy])(https://www.parity.io/privacy/).
 
 ### How do I claim my sweet, sweet gym bag?
 
-Please submit your profile information for the page and for shipping (and other contact information) [fill in this form](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform). We recommend to do that _first_ before you even start contributing, so you don't forget. Among other things the form asks you for your github handle and we will match your contribution to the contact details provided. We will then inform you about the expected shipping dates via E-Mail within the first week of november.
+Please submit your profile information for the page and for shipping (and other contact information) [fill in this form](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform). To see how we use your information please see [our privacy policy])(https://www.parity.io/privacy/). We recommend to submit your form _first_ before you even start contributing, so you don't forget. Among other things the form asks you for your github handle and we will match your contribution to the contact details provided. We will then inform you about the expected shipping dates via E-Mail within the first week of november.
 
 ### What will happen with my data on the form?
 
