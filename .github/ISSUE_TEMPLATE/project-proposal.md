@@ -17,11 +17,11 @@ For mentoring this issue please contact: [me, @_USERNAME](https://substrate.dev/
 ## Proof of done  _ - Please remove, edit and add as applicable_
 These following tasks must have been completed in order for this to be considered done:
  - [ ] Raise a PR against this Repository, adding your profile info under `participants`
- - [ ] Raise a PR containing `fixes #TICKETNUM` with your submission under `/submissions` against this repository - this can also be a git submodule to a different open github repo.
+ - [ ] Raise a PR containing `fixes #TICKETNUM` with your submission under `/submissions` against this repository - this can also be a git submodule to a different open GitHub repo.
  - [ ] Raise a PR against substrate with XYZ
  - [ ] ...
 
-## Further information 
+## Further information
 
 **Type**:
  - [ ] Proof of concept

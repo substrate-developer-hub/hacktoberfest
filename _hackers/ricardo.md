@@ -2,10 +2,10 @@
 # PLEASE PROVIDE AT LEAST THE FOLLOWING THREE
 # How would you like to be called
 name: Ricardo
-# What is your github handle?
+# What is your GitHub handle?
 github: riusricardo
 # In what role are you submitting, remove the not-matching
-role: 
+role:
  - mentor
 
 # optionally, you can let us know more about you:
