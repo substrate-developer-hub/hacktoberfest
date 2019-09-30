@@ -11,12 +11,12 @@ Join us for Hacktoberfest 2019. Hack on substrate and related parity technologie
 
 ### 💡 2. Select
 
-Pick any _four_ [hacktoberfest-tagged issue from any parity](https://github.com/search?q=user%3Aparitytech+label%3Ahacktoberfest+state%3Aopen&type=Issues) or the [rust-libp2p](https://github.com/libp2p/rust-libp2p/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) repository, or choose _one_ [larger project](https://github.com/substrate-developer-hub/hacktoberfest/issues), we have preprepared for you. Post a comment to let the mentors know you intend to work on it.
+Pick any _four_ [`hacktoberfest`-tagged issue from any parity](https://github.com/search?q=user%3Aparitytech+label%3Ahacktoberfest+state%3Aopen&type=Issues) or the [rust-libp2p](https://github.com/libp2p/rust-libp2p/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) repository, or choose _one_ [larger project](https://github.com/substrate-developer-hub/hacktoberfest/issues), we have preprepared for you. Post a comment to let the mentors know you intend to work on it.
 
 You can also suggest your own, see the [FAQ](faq/#reward)s, how.
 
 ### ⛏️ 3. Hack it
-Work on the issue. You can do that by yourself, with the mentor (if available) or join us for any of the [real world and remote events](#events) we are hosting for hacktoberfest. Once your work is ready, submit the PR and engage with the reviewers to get it merged.
+Work on the issue. You can do that by yourself, with the mentor (if available) or join us for any of the [real world and remote events](#events) we are hosting for Hacktoberfest. Once your work is ready, submit the PR and engage with the reviewers to get it merged.
 
 With your work and the form submitted before Nov 1st, all you have to do is wait for us to confirm your contribution and await your sweet, sweet reward 🎉! More in the [FAQ](faq/#reward)s.
 
