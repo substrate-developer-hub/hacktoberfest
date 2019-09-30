@@ -6,6 +6,6 @@ role:
 pronouns: he/him
 gitter:
 matrix: @emanuel-lima:matrix.org
-twitter:
+twitter: emanuel_lima1
 
 ---
