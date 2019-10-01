@@ -82,9 +82,9 @@ ul.unstyled li img {
 </style>
 
 <ul class="unstyled">
-{% for hackor in participants  %}
+{% for hacker in participants  %}
     <li>
-        <a href="https://github.com/{{hackor.github}}" title="{{hackor.name}}"><img src="https://github.com/{{hackor.github}}.png" alt="{{hackor.name}}"/>
+        <a href="https://github.com/{{hacker.github}}" title="{{hacker.name}}"><img src="https://github.com/{{hacker.github}}.png" alt="{{hacker.name}}"/>
         </a>
     </li>
 {% endfor %}
@@ -92,9 +92,9 @@ ul.unstyled li img {
 
 **Mentors**
 <ul class="unstyled">
-{% for hackor in mentors  %}
+{% for hacker in mentors  %}
     <li>
-      <a href=".{{ hackor.url }}" title="{{hackor.name}}"><img src="https://github.com/{{hackor.github}}.png" alt="{{hackor.name}}"/></a>
+      <a href=".{{ hacker.url }}" title="{{hacker.name}}"><img src="https://github.com/{{hacker.github}}.png" alt="{{hacker.name}}"/></a>
     </li>
 {% endfor %}
 </ul>
