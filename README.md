@@ -2,12 +2,12 @@
 
 [![Gitter](https://img.shields.io/gitter/room/substrate-developer-hub/community)](https://gitter.im/substrate-developer-hub/community)
 
-Join us for Hacktoberfest 2019. Hack on substrate and related parity technologies, solve issues or take on a bigger challenge pushing the boundaries of the technology that will run the next generation of the internet. Oh, and get exclusive swag on for doing so!
+Join us for Hacktoberfest 2019. Hack on substrate, parity-ethereum and related parity technologies, solve issues or take on a bigger challenge pushing the boundaries of the technology that will run the next generation of the internet. Oh, and get exclusive swag on for doing so!
 
 ## Participate in 3 easy steps
 
 ### ✍️ 1. Sign up
-[Fill in and submit the signup form](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform) to let us know you are taking part. To see how we use your information please see [our privacy policy](https://www.parity.io/privacy/). You can also optionally raise a PR against this repo to include your profile down below - [just fill in this template](https://github.com/substrate-developer-hub/hacktoberfest/blob/master/_hackers/_template.md). We recommend you also join us on chat either on [gitter](https://gitter.im/substrate-developer-hub/community) or [matrix](https://matrix.to/#/room/#substrate-technical:matrix.org).
+[Fill in and submit the signup form](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform) to let us know you are taking part. To see how we use your information please see [our privacy policy](https://www.parity.io/privacy/). You can also optionally raise a PR against this repo to include your profile down below - [just fill in this template](https://github.com/substrate-developer-hub/hacktoberfest/blob/master/_hackers/_template.md). We recommend you also join us on chat either on the [substrate gitter](https://gitter.im/substrate-developer-hub/community), the [parity-ethereum gitter](https://gitter.im/paritytech/parity) or [matrix](https://matrix.to/#/room/#substrate-technical:matrix.org).
 
 ### 💡 2. Select
 
