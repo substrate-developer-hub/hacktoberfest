@@ -46,8 +46,9 @@ With your work and the form submitted before Nov 1st, all you have to do is wait
 - **Oct 19th**-20th Workshop and Mentoring at [Diffusion Hackathon](https://diffusion.events/) · Factory Berlin
 - **Oct 21st** [16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191021T16&p1=%3A&ah=2) · [Substrate Collaborative Learning Hacktoberfest edition](https://www.eventbrite.com/e/substrate-collaborative-learning-hacktoberfest-edition-tickets-73961838851) · [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191021T16&p1=%3A&ah=2) · remote via [zoom](https://zoom.us/j/440029011)
 - **Oct 22th** [18:30 CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191022T1830&p1=37) · [Substrate'n'Chill Hacktoberfest-Edition](https://www.meetup.com/parity/events/265116095/) · [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191022T1830&p1=37)  · Berlin Community Space
-- **Oct 29th** [18:30 CET](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191029T1830&p1=37) · Substrate'n'Chill Hacktoberfest-Edition · [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191029T1830&p1=37) · Berlin Community Space
 - **Oct 28th**-31st [SF Blockchain week](https://sfblockchainweek.io/) · San Francisco
+- **Oct 29th** [18:30 CET](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191029T1830&p1=37) · [Parity n'Friends Hacktoberfest-Edition](https://www.meetup.com/parity/events/265153213/) · [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&msg=Parity+n'Friends+Hacktoberfest-Edition&iso=20191029T1830&p1=37) · Berlin Community Space
+
 
 
 <p style="font-size:0.75em"><em>Legend</em>: <a href="#">TITLE</a> - sign up link; 📆 - ical event</p>
