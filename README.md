@@ -91,7 +91,7 @@ ul.unstyled li img {
 </ul>
 
 **Mentors**
-<ul">
+<ul>
 {% for hacker in mentors  %}
     <li>
       <a href=".{{ hacker.url }}" title="{{hacker.name}}">{{hacker.name}} ({{hacker.github}})</a>
