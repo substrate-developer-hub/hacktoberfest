@@ -91,10 +91,10 @@ ul.unstyled li img {
 </ul>
 
 **Mentors**
-<ul class="unstyled">
+<ul">
 {% for hacker in mentors  %}
     <li>
-      <a href=".{{ hacker.url }}" title="{{hacker.name}}"><img src="https://github.com/{{hacker.github}}.png" alt="{{hacker.name}}"/></a>
+      <a href=".{{ hacker.url }}" title="{{hacker.name}}">{{hacker.name}} ({{hacker.github}})</a>
     </li>
 {% endfor %}
 </ul>
