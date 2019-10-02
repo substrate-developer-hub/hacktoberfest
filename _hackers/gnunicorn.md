@@ -1,6 +1,6 @@
 ---
-name: GNUnicorn
-github: gnunicorn
+name: Ben
+github: GNUnicorn
 role:
  - mentor
  - reviewer
