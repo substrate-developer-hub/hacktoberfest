@@ -60,10 +60,12 @@ For further questions regarding the process, how to claim the reward and also ot
 ## Hackers
 _Submit a PR filling in [this template](https://github.com/substrate-developer-hub/hacktoberfest/blob/master/_hackers/_template.md) to be listed here_
 
+```
 {% assign mentors = site.hackers | where: "role", "mentor"  %}
 {% assign participants = site.hackers | where: "role", "participant"  %}
+```
 
-
+```
 <style>
 ul.unstyled {
     list-style: none;
@@ -90,6 +92,7 @@ ul.unstyled li img {
     </li>
 {% endfor %}
 </ul>
+```
 
 **Mentors**
 
