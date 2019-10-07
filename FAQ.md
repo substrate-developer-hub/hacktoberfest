@@ -9,6 +9,18 @@ permalink: /faq/
 ### Do I have to have signed up first?
 No. You can do that any time before Nov 1st. However, we recommend you do it early on to not forget it. You will be able to change your submission.
 
+### How can I submit my profile for the front page?
+
+If you want your profile to be shown on the front page, you need to send a PR with the profile data. For that you will need a Github account, then you can:
+
+1. [Go here](https://github.com/substrate-developer-hub/hacktoberfest/tree/master/_hackers)
+2. click `New File`, use your profile name as the filename, add `.md` at then end
+3. copy paste the [content from the template](https://raw.githubusercontent.com/substrate-developer-hub/hacktoberfest/master/_hackers/_template.md) into it
+4. edit that to match your information
+5. send by clicking "submit as a new PR"
+
+We will review and merge your PR if all is fine.
+
 ### How do I claim to be working on an issue or ticket
 
 For any of the bigger issues listed in this repository, please submit a draft-PR tagging the issue number and continue committing or commenting within that PR to show progress. A PR that is stale for more than 10 days might be closed without further warning and the the issue is up for grabs again. Once you are ready for review, please switch the draft PR to ready for review and we'll get right on that.
