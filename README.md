@@ -7,7 +7,7 @@ Join us for Hacktoberfest 2019. Hack on substrate, parity-ethereum and related p
 ## Participate in 3 easy steps
 
 ### ✍️ 1. Sign up
-[Fill in and submit the signup form](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform) to let us know you are taking part. To see how we use your information please see [our privacy policy](https://www.parity.io/privacy/). You can also optionally raise a PR against this repo to include your profile down below - [based on this template](https://github.com/substrate-developer-hub/hacktoberfest/blob/master/_hackers/_template.md). We recommend you also join us on chat either on the [substrate gitter](https://gitter.im/substrate-developer-hub/community), the [parity-ethereum gitter](https://gitter.im/paritytech/parity) or [matrix](https://matrix.to/#/room/#substrate-technical:matrix.org).
+[Fill in and submit the signup form](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform) to let us know you are taking part. To see how we use your information please see [our privacy policy](https://www.parity.io/privacy/). You can also optionally [raise a PR against this repo to include your profile](faq/#how-can-i-submit-my-profile-for-the-front-page) down below. We recommend you also join us on chat either on the [substrate gitter](https://gitter.im/substrate-developer-hub/community), the [parity-ethereum gitter](https://gitter.im/paritytech/parity) or [matrix](https://matrix.to/#/room/#substrate-technical:matrix.org).
 
 ### 💡 2. Select
 
@@ -58,7 +58,7 @@ With your work and the form submitted before Nov 1st, all you have to do is wait
 For further questions regarding the process, how to claim the reward and also other ways and places to get help, **please [consult the FAQs](faq/)** and don't hesitate to post your questions on our chat!
 
 ## Hackers
-_Submit a PR filling in [this template](https://github.com/substrate-developer-hub/hacktoberfest/blob/master/_hackers/_template.md) to be listed here_
+_[Submit a PR to be listed here](faq/#how-can-i-submit-my-profile-for-the-front-page)_
 
 {% assign mentors = site.hackers | where: "role", "mentor"  %}
 {% assign participants = site.hackers | where: "role", "participant"  %}
