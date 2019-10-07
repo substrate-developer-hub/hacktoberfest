@@ -20,4 +20,4 @@ twitter: Anonymous07P
 
 ---
 
-###https://parikshitgupta.in
+###https://parikshitgupta.i
