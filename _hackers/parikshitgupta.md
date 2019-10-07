@@ -10,7 +10,7 @@ role:
 
 # optionally, you can let us know more about you:
 ## What are the pronouns you'd like us to use when talking about you
-pronouns: a07p
+pronouns: he
 ## Are you on gitter? Put the name here
 gitter:
 ## do you have a matrix/riot username?
@@ -20,5 +20,4 @@ twitter: Anonymous07P
 
 ---
 
-_I can optionally give further information and other ways to access or learn more about me here in full-featured markdown._
-### https://parikshitgupta.in
+###https://parikshitgupta.in
