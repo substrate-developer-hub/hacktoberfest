@@ -19,5 +19,3 @@ matrix:
 twitter: @Jollof_guy
 
 ---
-
-_I can optionally give further information and other ways to access or learn more about me here in full-featured markdown._
