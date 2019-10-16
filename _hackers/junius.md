@@ -16,5 +16,6 @@ gitter: juniuszhou
 ## do you have a matrix/riot username?
 matrix: junius63
 ## do you have a twitter?
-twitter: https://twitter.com/junius99323219
+twitter: junius99323219
 
+---
