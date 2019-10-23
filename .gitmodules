@@ -1,0 +1,3 @@
+[submodule "submissions/naming-service-node-template"]
+	path = submissions/naming-service-node-template
+	url = https://github.com/hskang9/naming-service-node-template.git
