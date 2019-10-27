@@ -92,6 +92,10 @@ ul.unstyled li img {
 {% endfor %}
 </ul>
 
+### Submissions
+
+- [Substrate Naming Service](https://github.com/hskang9/substrate-naming-service/tree/master), [original issue](https://github.com/substrate-developer-hub/hacktoberfest/issues/20)
+
 **Mentors**
 
 {% for hacker in mentors  %}
