@@ -49,6 +49,9 @@ With your work and the form submitted before Nov 1st, all you have to do is wait
 - **Oct 28th**-31st [SF Blockchain week](https://sfblockchainweek.io/) · San Francisco
 - **Oct 29th** [18:30 CET](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate'n'Chill+Hacktoberfest-Edition&iso=20191029T1830&p1=37) · [Parity n'Friends Hacktoberfest-Edition](https://www.meetup.com/parity/events/265153213/) · [📆](https://www.timeanddate.com/scripts/ics.php?type=utc&msg=Parity+n'Friends+Hacktoberfest-Edition&iso=20191029T1830&p1=37) · Berlin Community Space
 
+- **Oct 28th** [16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191028T16) · Substrate Collaborative Learning Hacktoberfest edition · [📆](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Substrate+Collaborative+Learning+Hacktoberfest+edition&iso=20191028T16) · remote via [zoom](https://zoom.us/j/440029011)
+
+
 
 
 <p style="font-size:0.75em"><em>Legend</em>: <a href="#">TITLE</a> - sign up link; 📆 - ical event</p>
