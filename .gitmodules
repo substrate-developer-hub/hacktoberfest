@@ -1,6 +1,3 @@
-[submodule "submissions/naming-service-node-template"]
-	path = submissions/naming-service-node-template
-	url = https://github.com/hskang9/naming-service-node-template.git
-[submodule "submissions/substrate-naming-service"]
-	path = submissions/substrate-naming-service
-	url = https://github.com/hskang9/substrate-naming-service.git
+[submodule "submissions/substrate-name-service"]
+	path = submissions/substrate-name-service
+	url = https://github.com/hskang9/substrate-name-service.git
