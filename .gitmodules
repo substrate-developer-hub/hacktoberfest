@@ -4,3 +4,6 @@
 [submodule "submissions/substrate-naming-service"]
 	path = submissions/substrate-naming-service
 	url = https://github.com/hskang9/substrate-naming-service.git
+[submodule "substrate-name-service"]
+	path = substrate-name-service
+	url = https://github.com/hskang9/substrate-name-service.git
