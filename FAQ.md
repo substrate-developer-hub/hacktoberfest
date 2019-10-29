@@ -14,7 +14,7 @@ No. You can do that any time before Nov 1st. However, we recommend you do it ear
 If you want your profile to be shown on the front page, you need to send a PR with the profile data. For that you will need a Github account, then you can:
 
 1. [Go here](https://github.com/substrate-developer-hub/hacktoberfest/tree/master/_hackers)
-2. click `New File`, use your profile name as the filename, add `.md` at then end
+2. click `New File`, use your profile name as the filename, add `.md` at the end
 3. copy paste the [content from the template](https://raw.githubusercontent.com/substrate-developer-hub/hacktoberfest/master/_hackers/_template.md) into it
 4. edit that to match your information
 5. send by clicking "submit as a new PR"
@@ -23,21 +23,21 @@ We will review and merge your PR if all is fine.
 
 ### How do I claim to be working on an issue or ticket
 
-For any of the bigger issues listed in this repository, please submit a draft-PR tagging the issue number and continue committing or commenting within that PR to show progress. A PR that is stale for more than 10 days might be closed without further warning and the the issue is up for grabs again. Once you are ready for review, please switch the draft PR to ready for review and we'll get right on that.
+For any of the bigger issues listed in this repository, please submit a draft-PR tagging the issue number and continue committing or commenting within that PR to show progress. A PR that is stale for more than 10 days might be closed without further warning and the issue is up for grabs again. Once you are ready for review, please switch the draft PR to ready for review and we'll get right on that.
 
 For any issue posted elsewhere just post a comment asking to be assigned for the task, mentioning either the mentor (if known) or the original author of the ticket in your comment. They will then assign the ticket to you. Here, too, we recommend keeping the mentor/author up to date on what is happening or they might re-assign the ticket later.
 
-### Can I create my own projects?
+### Can I create my projects?
 
 Generally, yes. You can just open a ticket on the main repo and outline what you intend to do using one of the existing templates. Please do not yet get started though because we might have clarification questions or want to discuss the proposal before we accept the idea to be legible as a Hacktoberfest contribution. But we promise to get back to you about this within one business day.
 
-Of course you can also put in further ideas or projects without the intent to work on them yourself. But creation of proposal by itself is not considered a contribution worthy of the reward.
+Of course, you can also put in further ideas or projects without the intent to work on them yourself. But the creation of proposal by itself is not considered a contribution worthy of the reward.
 
 ### What copyright and license will submission be under?
 
-Of course the authorship lies with you. PRs are generally under the license specified in the repository at the time of submission. If you don't want them to release under that license, you simply can't submit them. For a few of our repositories you must have signed a CLA - in those cases a bot will inform and guide you through the system.
+Of course, the authorship lies with you. PRs are generally under the license specified in the repository at the time of submission. If you don't want them to release under that license, you simply can't submit them. For a few of our repositories, you must have signed a CLA - in those cases, a bot will inform and guide you through the system.
 
-For work that you put in your own repo or publish on other platforms, we only ask you to put them under any OSI compliant OpenSource License to stay in the spirit of Hacktoberfest. **Submissions without a proper OpenSource License will not be accepted**.
+For work that you put in your repo or publish on other platforms, we only ask you to put them under any OSI compliant OpenSource License to stay in the spirit of Hacktoberfest. **Submissions without a proper OpenSource License will not be accepted**.
 
 ## Reward
 
@@ -70,7 +70,7 @@ Yes. If the criteria apply, you are welcome to submit for both, either or neithe
 
 ### How do I claim my sweet, sweet gym bag?
 
-Please submit your profile information for the page and for shipping (and other contact information) [fill in this form](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform). To see how we use your information please see [our privacy policy](https://www.parity.io/privacy/). We recommend to submit your form _first_ before you even start contributing, so you don't forget. Among other things the form asks you for your GitHub handle and we will match your contribution to the contact details provided. We will then inform you about the expected shipping dates via E-Mail within the first week of November.
+Please submit your profile information for the page and shipping (and other contact information) [fill in this form](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform). To see how we use your information please see [our privacy policy](https://www.parity.io/privacy/). We recommend to submit your form _first_ before you even start contributing, so you don't forget. Among other things the form asks you for your GitHub handle and we will match your contribution to the contact details provided. We will then inform you about the expected shipping dates via E-Mail within the first week of November.
 
 ### What will happen with my data on the form?
 
