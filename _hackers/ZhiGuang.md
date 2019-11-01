@@ -7,8 +7,6 @@ github: ZhiGuang
 # In what role are you submitting, remove the not-matching
 role:
  - participant
- - reviewer
-
 # optionally, you can let us know more about you:
 ## What are the pronouns you'd like us to use when talking about you
 pronouns: he/him
@@ -20,5 +18,3 @@ matrix: nrobot
 twitter: ZhiGuangHuang
 
 ---
-
-_I can optionally give further information and other ways to access or learn more about me here in full-featured markdown._
