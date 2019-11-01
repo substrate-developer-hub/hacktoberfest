@@ -10,7 +10,7 @@ pronouns: he/him
 ## do you have a matrix/riot username?
 matrix: "julien:matrix.parity.io"
 ## do you have a twitter?
-twitter: @jeluard
+twitter: jeluard
 
 ---
 
